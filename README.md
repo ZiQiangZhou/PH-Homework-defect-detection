@@ -1,2 +1,2 @@
-# PH-Homework-defect-detection
+# PR-Homework-defect-detection
 PR homework defect detection
